@@ -30,6 +30,6 @@ _ Dropout =0.3
 # Amélioration Approtée:
 * Features: Utilisation de caractere embeddings ou lieu de Word Embeddings  
 * Nouvelle Dataset de 32000 new headlines 
-* Evaluer avec un batch_size=64_ optimizer= ADAM _ loss function = Binary Cross Entropy et un Dropout =0.3
+* Evaluer avec un batch_size=128_ epochs=20 _ optimizer= ADAM _ loss function = Binary Cross Entropy et un Dropout =0.3
 
 
