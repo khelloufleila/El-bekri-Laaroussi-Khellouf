@@ -1,6 +1,7 @@
 # Projet de El-bekri rajae ,Laaroussi lamyae et Khellouf leila: 
 # Intituler : clickbait_detection:
-# Définition: Clickbaiting est une stratégie d’utilisation intensionnelle pour les liens, tweets ou publications trompeuses sur les réseaux sociaux pour attirer en ligne les téléspectateurs.
+# Définition: 
+- Clickbaiting est une stratégie d’utilisation intensionnelle pour les liens, tweets ou publications trompeuses sur les réseaux sociaux pour attirer en ligne les téléspectateurs.
 # Exemples d’un clickbaits: 
 - “The Hot New Phone Everybody Is Talking About”
 - “You ll Never Believe Who Tripped and Fell on the Red Carpet”
