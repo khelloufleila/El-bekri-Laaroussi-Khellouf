@@ -10,7 +10,7 @@ Il existe plusieurs méthodes pour détecter automatiquement les clickbaits.
 nous nous sommes basées sur l'article suivant pour construire nos différents modèles __(https://arxiv.org/abs/1612.01340)__
 
 # BiDiractional RNN architecture for detecting Clickbait
-
+![alt tag](https://user-images.githubusercontent.com/58788146/70670339-00e74b00-1c79-11ea-9cbd-3e22fb9551e7.png)
 # Evaluation: 
 _ Dataset= 15000 news headlines (7500 de clickbait source BuzzFeed , Upworthy et 7500 non_clickbait source Wikinews)
 _ 10 fold cross validation
