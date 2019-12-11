@@ -28,7 +28,8 @@ _ Dropout =0.3
 * Gated Recurrent Unit (GRU) 
 * standard RNNs
 # Amélioration Approtée:
-* Features: Utilisation de caractere embeddings 
+* Features: Utilisation de caractere embeddings ou lieu de Word Embeddings  
 * Nouvelle Dataset de 32000 new headlines 
+* Evaluer avec un batch_size=64_ optimizer= ADAM _ loss function = Binary Cross Entropy et un Dropout =0.3
 
 
