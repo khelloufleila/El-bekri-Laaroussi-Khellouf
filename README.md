@@ -27,3 +27,8 @@ _ Dropout =0.3
 * Long Short Term Memory (LSTM)
 * Gated Recurrent Unit (GRU) 
 * standard RNNs
+# Amélioration Approtée:
+* Features: Utilisation de caractere embeddings 
+* Nouvelle Dataset de 32000 new headlines 
+
+
