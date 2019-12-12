@@ -12,7 +12,7 @@ nous nous sommes basées sur l'article suivant pour construire nos différents m
 # BiDiractional RNN architecture for detecting Clickbait
 ![alt tag](https://user-images.githubusercontent.com/58788146/70670339-00e74b00-1c79-11ea-9cbd-3e22fb9551e7.png)
 # Evaluation: 
-_ Dataset= 15000 news headlines (7500 de clickbait source BuzzFeed , Upworthy et 7500 non_clickbait source Wikinews)
+_ Article Dataset= 15000 news headlines (7500 de clickbait source BuzzFeed , Upworthy et 7500 non_clickbait source Wikinews)
 _ 10 fold cross validation
 _ pour le training ils ont utilisés mini_batch gradient descent avec: 
 _ batch_size=64
@@ -28,8 +28,8 @@ _ Dropout =0.3
 * Gated Recurrent Unit (GRU) 
 * standard RNNs
 # Amélioration Approtée:
-* Features: Utilisation de caractere embeddings ou lieu de Word Embeddings  
+* Features: Utilisation de caractere embeddings au lieu de Word Embeddings  
 * Nouvelle Dataset de 32000 new headlines (https://github.com/bhargaviparanjape/clickbait/tree/master/dataset?fbclid=IwAR1STvONn18Lp00bF9RJB17NNDk8Zxd3UCu7TRWNvjIAS58JaENSWfPri_I)
-* Evalué avec un batch_size=128_ epochs=20 _ optimizer= ADAM _ loss function = Binary Cross Entropy et un Dropout =0.3
+* Evalué avec un batch_size=64_ epochs=20 _ optimizer= ADAM _ loss function = Binary Cross Entropy et un Dropout =0.3
 
 
