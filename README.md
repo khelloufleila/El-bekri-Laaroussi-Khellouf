@@ -29,7 +29,7 @@ _ Dropout =0.3
 * standard RNNs
 # Amélioration Approtée:
 * Features: Utilisation de caractere embeddings ou lieu de Word Embeddings  
-* Nouvelle Dataset de 32000 new headlines (https://github.com/bhargaviparanjape/clickbait/tree/master/dataset?fbclid=IwAR1STvONn18Lp00bF9RJB17NNDk8Zxd3UCu7TRWNvjIAS58JaENSWfPri_)
+* Nouvelle Dataset de 32000 new headlines (https://github.com/bhargaviparanjape/clickbait/tree/master/dataset?fbclid=IwAR1STvONn18Lp00bF9RJB17NNDk8Zxd3UCu7TRWNvjIAS58JaENSWfPri_I)
 * Evalué avec un batch_size=128_ epochs=20 _ optimizer= ADAM _ loss function = Binary Cross Entropy et un Dropout =0.3
 
 
